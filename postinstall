@@ -1,0 +1,5 @@
+#!/bin/bash
+
+launchctl load /Library/LaunchDaemons/org.da.deletePublicShares.plist
+
+exit 0
